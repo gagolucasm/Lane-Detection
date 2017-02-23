@@ -27,3 +27,8 @@ You will need:
 Just run in your installation directory:
 
 `jupyter notebook P1.ipynb`
+
+
+## License
+
+This proyect is Copyright © 2015-2017 Lucas Gago. It is free software, and may be redistributed under the terms specified in the [MIT License](https://opensource.org/licenses/MIT).
