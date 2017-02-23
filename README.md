@@ -5,7 +5,7 @@
 
 Lane detection in image feed using Houg Space among other computer vision techniques. Exponential filtering for soft transition. Capable of detecting curved lanes.
 
-## Instalation
+## Installation
 
 Clone the repository in your computer:
 
